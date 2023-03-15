@@ -1,1 +1,5 @@
 Primera tarea de paradigmas de la programación
+
+Segundo commit realizado en git
+
+
